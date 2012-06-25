@@ -1,0 +1,44 @@
+#screen {
+	cursor: move;
+}
+.slider {
+	height: 200px;
+}
+#sliderContainer {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+}
+#sliderContainer div {
+	display: inline-block;
+	margin-left: 8px;
+}
+#sliderContainer td.name {
+	font-weight: bold;
+}
+#number {
+	width: 150px;
+	height: 150px;
+	font-style: italic;
+	font-size: 120px;
+	padding:0;
+	text-align: center;
+	cursor: pointer;
+	z-index: 9999;
+}
+body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+#container {
+	overflow: hidden;
+}
+#real, #imaginary {
+	background: none;
+	border: none;
+	width: 30px;
+}
+.info span {
+	vertical-align: super;
+}
