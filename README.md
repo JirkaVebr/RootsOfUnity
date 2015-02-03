@@ -1,6 +1,6 @@
 RootsOfUnity
 ============
 
-A javascript simulation that illustrates the n roots of unity Z for complex numbers A, such as that A^n = Z.
+A javascript simulation that illustrates the <var>n</var> roots of unity <var>Z</var> for complex numbers <var>A</var>, such as that <var>A</var><sup><var>n</var></sup> = <var>Z</var>.
 
 Demo: http://rawgit.com/Onset/RootsOfUnity/master/index.html
